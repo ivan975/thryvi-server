@@ -21,6 +21,11 @@ app.get('/details/:id', (req, res) => {
     res.send(getSingleCourse);
 })
 
+app.get('premium/:id', (req, res) => {
+    const id = req.params.id;
+    console.log(id);
+})
+
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
 })
