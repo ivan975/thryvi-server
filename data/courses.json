@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "title":"Blockchain",
+        "description":"A blockchain is a distributed database or ledger that is shared among the nodes of a computer network. As a database, a blockchain stores information electronically in digital format. Blockchains are best known for their crucial role in cryptocurrency systems, such as Bitcoin, for maintaining a secure and decentralized record of transactions. The innovation with a blockchain is that it guarantees the fidelity and security of a record of data and generates trust without the need for a trusted third party.",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzCUberVKBWzxA9-mRiQTcqqjbNXD0La8EPA&usqp=CAU"
+    },
+    {
+        "id":2,
+        "title":"Data Science",
+        "description":"Data Science careers are one of the most highly compensated careers worldwide currently. Due to its broad application in every industry, there is a higher demand for data scientists who can analyze complex data and communicate the results effectively. In this course, we will be covering the basics of data science and learning the tools used for data science from scratch. We will start the lessons at the beginner level and move up to the advanced level.",
+        "image":"https://juristecplus.com/wp-content/uploads/2022/03/Data-Science.jpg"
+    },
+    {
+        "id":3,
+        "title":"Machine Learning",
+        "description":"Machine learning engineering career is one of the most highly compensated careers worldwide currently. Due to its broad application in every industry, there is a higher demand for  machine learning who can analyze complex data and communicate the results effectively. In this course, we will be covering the basics of machine learning and learning the tools used for data science from scratch. We will start the lessons at the beginner level and move up to the advanced level.",
+        "image":"https://www.fsm.ac.in/blog/wp-content/uploads/2022/08/ml-e1610553826718.jpg"
+    },
+    {
+        "id":4,
+        "title":"Human Computer Interaction",
+        "description":"Human–computer interaction (HCI) is research in the design and the use of computer technology, which focuses on the interfaces between people (users) and computers. HCI researchers observe the ways humans interact with computers and design technologies that allow humans to interact with computers in novel ways. A device that allows interaction between human being and a computer is known as a 'Human-computer Interface (HCI).'",
+        "image":"https://www.canterbury.ac.nz/engineering/schools/csse/research/hci/android-with-VR-headset-on_3374756791148694408.jpg"
+    },
+    {
+        "id":5,
+        "title":"Computer Networks",
+        "description":"A computer network is a set of computers sharing resources located on or provided by network nodes. The computers use common communication protocols over digital interconnections to communicate with each other. These interconnections are made up of telecommunication network technologies, based on physically wired, optical, and wireless radio-frequency methods that may be arranged in a variety of network topologies.We are going to learn from beginning to advance.",
+        "image":"https://www.tutorialspoint.com/basics_of_computer_science/images/computer_networking.jpg"
+    },
+    {
+        "id":6,
+        "title":"Software Engineering",
+        "description":"Software engineering is a systematic engineering approach to software development.A software engineer is a person who applies the principles of software engineering to design, develop, maintain, test, and evaluate computer software. The term programmer is sometimes used as a synonym, but may also lack connotations of engineering education or skills.Engineering techniques are used to inform[clarification needed] the software development process which involves the definition, implementation, assessment, measurement, management, change, and improvement of the software life cycle process itself. It heavily uses software configuration management which is about systematically controlling changes to the configuration, and maintaining the integrity and traceability of the configuration and code throughout the system life cycle. Modern processes use software versioning.",
+        "image":"https://artoftesting.com/wp-content/uploads/2020/01/software-engineering-featured.jpg"
+    }
+]
