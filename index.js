@@ -21,10 +21,11 @@ app.get('/details/:id', (req, res) => {
     res.send(getSingleCourse);
 })
 
-app.get('premium/:id', (req, res) => {
-    const id = req.params.id;
-    console.log(id);
-})
+// app.get('/premium/:id', (req, res) => {
+//     const id = req.params.id;
+//     const getSingleCourse = courses?.find(p => p.id == id)
+//     res.send(getSingleCourse);
+// })
 
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
